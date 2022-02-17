@@ -1,8 +1,8 @@
 # ML-models-architecture
 some model architecture and algorithm of ML
 
-model architecture
+## model architecture
 - [x] resnet
 
-algorithm
+## algorithm
 - [x] Semi-supervised Learning
