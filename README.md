@@ -1,2 +1,4 @@
 # ML-models-architecture
-some model architecture of ML
+some model architecture and algorithm of ML
+
+- [x] resnet
